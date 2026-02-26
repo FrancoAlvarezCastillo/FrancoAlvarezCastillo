@@ -24,32 +24,19 @@ I am building my profile toward <strong>Cloud Engineering</strong>, <strong>DevS
 
 <hr>
 
-<h2>🛠 Tech Stack</h2>
-
+<h3 align="center">Languages</h3>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<h3 align="center">Cloud & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
 
-<br><br>
-
-<!-- Cloud & DevOps -->
-<img src="https://skillicons.dev/icons?i=aws" height="50"/>
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-
-<br><br>
-
-<!-- Automation & Tools -->
-<img src="https://skillicons.dev/icons?i=selenium" height="50"/>
-<img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
-<img src="https://skillicons.dev/icons?i=jira" height="50"/>
-
+<h3 align="center">Automation & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,jenkins,jira" />
 </p>
 
 <hr>
