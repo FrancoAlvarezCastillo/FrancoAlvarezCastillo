@@ -11,7 +11,7 @@
 <h2>🔎 About Me</h2>
 
 <p>
-I am a Systems Engineering student with professional experience in test automation and a growing focus on <strong>Cloud Computing</strong> and <strong>Cybersecurity</strong>.
+I am a Systems Engineering student with 7 months professional experience in test automation and a growing focus on <strong>Cloud Computing</strong> and <strong>Cybersecurity</strong>.
 </p>
 
 <p>
