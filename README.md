@@ -31,12 +31,12 @@ I am building my profile toward <strong>Cloud Engineering</strong>, <strong>DevS
 
 <h3 align="center">Cloud & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
 </p>
 
 <h3 align="center">Automation & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,jenkins,jira" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,jira" />
 </p>
 
 <hr>
