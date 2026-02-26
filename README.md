@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Actually working in Epam Systems as a Software Test Automation Engineer | Software Developer | Automated & Manual Testing | Systems Engineering Student</p>
+<p align="left">Actually working in Epam Systems as a Software Test Automation Engineer | Security Analyst | Cloud Engineer | Automated & Manual Testing | Systems Engineering Student</p>
 
 ###
 
