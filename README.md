@@ -26,7 +26,7 @@ I am building my profile toward <strong>Cloud Engineering</strong>, <strong>DevS
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,mysql" />
 </p>
 
 <h3 align="center">Cloud & DevOps</h3>
