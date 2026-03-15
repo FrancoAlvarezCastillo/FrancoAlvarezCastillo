@@ -3,7 +3,6 @@
 <p align="center">
 🚀 Software Test Automation Engineer at EPAM Systems <br>
 🎓 Systems Engineering Student <br>
-☁️ Cloud & Security Enthusiast
 </p>
 
 <hr>
@@ -11,7 +10,7 @@
 <h2>🔎 About Me</h2>
 
 <p>
-I am a Systems Engineering student with 7 months professional experience in test automation and a growing focus on <strong>Cloud Computing</strong> and <strong>Cybersecurity</strong>.
+I am a Systems Engineering student with 7 months professional experience in test automation.
 </p>
 
 <p>
@@ -19,7 +18,7 @@ I have 3+ years of academic and technical background in software development, au
 </p>
 
 <p>
-I am building my profile toward <strong>Cloud Engineering</strong>, <strong>DevSecOps</strong>, and <strong>Security Analysis</strong> roles.
+I am building my profile toward <strong>QA Automation</strong>, <strong>Cloud</strong>, and <strong>Java Dev</strong> roles.
 </p>
 
 <hr>
@@ -41,16 +40,9 @@ I am building my profile toward <strong>Cloud Engineering</strong>, <strong>DevS
 
 <hr>
 
-<h2>🔐 Security & Cloud Focus</h2>
 
-<ul>
-<li>Cloud Architecture Fundamentals (AWS)</li>
-<li>DevSecOps Principles</li>
-<li>Secure SDLC</li>
-<li>CIA Triad & Security Foundations</li>
-<li>Authentication & Authorization Concepts</li>
-<li>Infrastructure Automation Basics</li>
-</ul>
+
+
 
 <hr>
 
