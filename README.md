@@ -25,7 +25,7 @@ I am building my profile toward <strong>QA Automation</strong>, <strong>Cloud</s
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,mysql" />
 </p>
 
 <h3 align="center">Cloud & DevOps</h3>
@@ -35,7 +35,7 @@ I am building my profile toward <strong>QA Automation</strong>, <strong>Cloud</s
 
 <h3 align="center">Automation & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,postman,jira" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,jira,playwright" />
 </p>
 
 <hr>
