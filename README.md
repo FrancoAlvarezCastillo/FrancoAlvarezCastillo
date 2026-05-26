@@ -10,7 +10,7 @@
 <h2>🔎 About Me</h2>
 
 <p>
-I am a Systems Engineering student with 8 months professional experience in test automation.
+I am a Systems Engineering student with 10 months professional experience in test automation.
 </p>
 
 <p>
