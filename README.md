@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Franco Alvarez Castillo 👋</h1>
 
 <p align="center">
-🚀 Software Test Automation Engineer at EPAM Systems <br>
-🎓 Systems Engineering Student <br>
+🚀 Quality Assurance Engineer at Avature <br>
+🎓 Avanced Systems Engineering Student <br>
 </p>
 
 <hr>
@@ -10,7 +10,7 @@
 <h2>🔎 About Me</h2>
 
 <p>
-I am a Systems Engineering student with 10 months professional experience in test automation.
+I am a Systems Engineering student with +1 year professional experience in test automation.
 </p>
 
 <p>
@@ -18,7 +18,7 @@ I have 3+ years of academic and technical background in software development, au
 </p>
 
 <p>
-I am building my profile toward <strong>QA Automation</strong>, <strong>Cloud</strong>, and <strong>Java Dev</strong> roles.
+I am building my profile toward <strong>QA Automation</strong> & <strong>Cloud</strong roles.
 </p>
 
 <hr>
